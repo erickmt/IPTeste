@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Fulano da Silva",
+      "course": "Mecatronica",
+      "scholarshipHolder": true,
+      "integratedProjectAverageScore": 7.25
+    },
+    {
+      "name": "Beltrano de Souza",
+      "course": "ADM",
+      "scholarshipHolder": true,
+      "integratedProjectAverageScore": 6.25
+    },
+    {
+      "name": "Ciclano das Dores",
+      "course": "Quimica Indutrial",
+      "scholarshipHolder": false,
+      "integratedProjectAverageScore": 6.98
+    },
+    {
+      "name": "Oscar da Silva Mundongo",
+      "course": "Economia",
+      "scholarshipHolder": false,
+      "integratedProjectAverageScore": 9.75
+    }
+  ]
+}
